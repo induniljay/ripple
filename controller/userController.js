@@ -1,1 +1,3 @@
-console.log("user controller");
+const getAllUser = () => {
+  console.log("all user");
+};

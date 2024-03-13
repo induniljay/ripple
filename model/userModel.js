@@ -1,1 +1,3 @@
-console.log("user mdoel");
+const model = () => {
+  console.log("user schema");
+};
